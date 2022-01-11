@@ -1,0 +1,5 @@
+str=input("Enter a String")
+substr=input("Enter Substring")
+print("Number of times the given substring is",str.count(substr))
+print("prgrm sucessfull siuuuu")
+	#substring(2.2)
